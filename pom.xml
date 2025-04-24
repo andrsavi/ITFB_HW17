@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>ITFB_HW16_2</artifactId>
+	<artifactId>ITFB_HW17</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ITFB_HW16_2</name>
 	<description>Api_mvd</description>
